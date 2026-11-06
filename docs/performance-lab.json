@@ -1,0 +1,80 @@
+{
+  "environment": "Windows, headless Chromium, 1440x1000, local production preview, no CPU/network throttling; one lab run, no field INP measurement",
+  "lcp": 268,
+  "cls": 0,
+  "navigation": {
+    "name": "http://127.0.0.1:4174/",
+    "entryType": "navigation",
+    "startTime": 0,
+    "duration": 77.30000019073486,
+    "navigationId": 5046,
+    "initiatorType": "navigation",
+    "deliveryType": "",
+    "nextHopProtocol": "http/1.1",
+    "renderBlockingStatus": "non-blocking",
+    "contentType": "text/html",
+    "contentEncoding": "",
+    "workerStart": 0,
+    "workerRouterEvaluationStart": 0,
+    "workerCacheLookupStart": 0,
+    "workerMatchedSourceType": "",
+    "workerFinalSourceType": "",
+    "redirectStart": 0,
+    "redirectEnd": 0,
+    "fetchStart": 0.20000004768371582,
+    "domainLookupStart": 0.9000000953674316,
+    "domainLookupEnd": 1.9000000953674316,
+    "connectStart": 1.9000000953674316,
+    "secureConnectionStart": 0,
+    "connectEnd": 2.5,
+    "requestStart": 2.6000001430511475,
+    "responseStart": 14.600000143051147,
+    "firstInterimResponseStart": 0,
+    "finalResponseHeadersStart": 14.600000143051147,
+    "responseEnd": 15.100000143051147,
+    "transferSize": 1322,
+    "encodedBodySize": 1022,
+    "decodedBodySize": 1022,
+    "responseStatus": 200,
+    "serverTiming": [],
+    "unloadEventStart": 0,
+    "unloadEventEnd": 0,
+    "domInteractive": 22.700000047683716,
+    "domContentLoadedEventStart": 77.30000019073486,
+    "domContentLoadedEventEnd": 77.30000019073486,
+    "domComplete": 77.30000019073486,
+    "loadEventStart": 77.30000019073486,
+    "loadEventEnd": 77.30000019073486,
+    "type": "navigate",
+    "redirectCount": 0,
+    "activationStart": 0,
+    "criticalCHRestart": 0,
+    "notRestoredReasons": null,
+    "confidence": {
+      "randomizedTriggerRate": 0.4994798,
+      "value": "high"
+    }
+  },
+  "resources": [
+    {
+      "name": "http://127.0.0.1:4174/assets/index-boY6MwJG.js",
+      "duration": 28.90000009536743,
+      "bytes": 139220
+    },
+    {
+      "name": "http://127.0.0.1:4174/assets/builder-B_DAeC9J.js",
+      "duration": 18,
+      "bytes": 29525
+    },
+    {
+      "name": "http://127.0.0.1:4174/assets/index-BcFOvX7w.css",
+      "duration": 13.200000047683716,
+      "bytes": 10636
+    },
+    {
+      "name": "http://127.0.0.1:4174/desk-campaign-768.webp",
+      "duration": 12.099999904632568,
+      "bytes": 88760
+    }
+  ]
+}
